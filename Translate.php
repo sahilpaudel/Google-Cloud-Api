@@ -4,7 +4,7 @@ require 'vendor/autoload.php';
 use Google\Cloud\Translate\TranslateClient;
 
 $translate = new TranslateClient([
-    'key' => 'AIzaSyDSx4hTbkFDks28smIEFaLR-wRJ0B_o7pY'
+    'key' => ''
 ]);
 
 // Translate text from english to french.
